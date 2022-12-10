@@ -26,7 +26,7 @@ h1 {
   letter-spacing: 2px;
   font-size: 50px;
   margin: 0px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -38,10 +38,10 @@ h2 {
 
 p {
   letter-spacing: 1px;
-  font-size:20px;
+  font-size:19px;
   color: white;
   line-height: 33px;
-  padding: 30px;
+  padding: 40px;
 }
 
 .header {
@@ -126,5 +126,9 @@ p {
   }
   h1 {
     font-size:50px;
+  }
+
+  p {
+    padding: 50px;
   }
 }
